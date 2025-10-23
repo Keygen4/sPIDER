@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/sPIDER/Content/AcidSpider/CR_AcidSpider.uasset",
+				"D:/Unreal Projects/sPIDER/Content/AcidSpider/CR_Spider.uasset",
+				"D:/Unreal Projects/sPIDER/Content/AcidSpider/BP_AcidSpider.uasset",
 				"L:/Unreal Projects/sPIDER/Content/MasterMaterials/MM_ORM.uasset",
 				"L:/Unreal Projects/sPIDER/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"L:/Unreal Projects/sPIDER/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
